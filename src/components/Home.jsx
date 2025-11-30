@@ -5,7 +5,6 @@ import {
   FaLinkedinIn,
 } from "react-icons/fa";
 import { motion } from "framer-motion";
-
 const Home = () => {
   return (
     <section
@@ -88,7 +87,7 @@ const Home = () => {
           <div className="absolute -bottom-10 w-28 h-28 bg-purple-600 blur-2xl rounded-full"></div>
 
           <img
-            src="/PROTFOLIO-WEB/images/photo.jpg"
+             src="/-My-Portfolio/images/photo.jpg"
             className="w-52 h-52 sm:w-60 sm:h-60 rounded-full object-cover border-2 border-white shadow-lg relative z-10"
             alt="profile"
           />

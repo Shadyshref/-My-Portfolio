@@ -3,17 +3,17 @@ import { motion } from "framer-motion";
 const Projects = () => {
   const lprojects = [
     {
-      img: "/PROTFOLIO-WEB/images/Picture1.png",
+      img: "/-My-Portfolio/images/Picture1.png",
       name: "Stream chat",
       link: "https://github.com/Shadyshref/stream-chat",
     },
     {
-      img: "/PROTFOLIO-WEB/images/Picture2.png",
+      img: "/-My-Portfolio/images/Picture2.png",
       name: "Project management",
       link: "https://github.com/Shadyshref/project-managment",
     },
     {
-      img: "/PROTFOLIO-WEB/images/Picture3.png",
+      img: "/-My-Portfolio/images/Picture3.png",
       name: "E-commerce",
       link: "https://github.com/Shadyshref/Full-stack-e-commerce-web",
     },
